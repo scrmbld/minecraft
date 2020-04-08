@@ -1,1 +1,3 @@
 A datapack for implementing emerald swords into minecraft. This is mostly for practice with custom crafting recipes and models.
+
+To use this datapack, paste the emerald_sword folder into the datapacks folder of your world save, and put the visual/emerald_sword_rp folder into your rescource packs folder.
